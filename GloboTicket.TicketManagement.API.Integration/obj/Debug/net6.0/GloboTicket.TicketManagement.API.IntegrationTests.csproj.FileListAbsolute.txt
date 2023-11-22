@@ -1,0 +1,12 @@
+C:\Users\marye\Desktop\TUTS\PROJECTS\Asp.net\GloboTicket.TicketManagement\GloboTicket.TicketManagement.API.Integration\bin\Debug\net6.0\GloboTicket.TicketManagement.API.IntegrationTests.deps.json
+C:\Users\marye\Desktop\TUTS\PROJECTS\Asp.net\GloboTicket.TicketManagement\GloboTicket.TicketManagement.API.Integration\bin\Debug\net6.0\GloboTicket.TicketManagement.API.IntegrationTests.dll
+C:\Users\marye\Desktop\TUTS\PROJECTS\Asp.net\GloboTicket.TicketManagement\GloboTicket.TicketManagement.API.Integration\bin\Debug\net6.0\GloboTicket.TicketManagement.API.IntegrationTests.pdb
+C:\Users\marye\Desktop\TUTS\PROJECTS\Asp.net\GloboTicket.TicketManagement\GloboTicket.TicketManagement.API.Integration\obj\Debug\net6.0\GloboTicket.TicketManagement.API.IntegrationTests.csproj.AssemblyReference.cache
+C:\Users\marye\Desktop\TUTS\PROJECTS\Asp.net\GloboTicket.TicketManagement\GloboTicket.TicketManagement.API.Integration\obj\Debug\net6.0\GloboTicket.TicketManagement.API.IntegrationTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marye\Desktop\TUTS\PROJECTS\Asp.net\GloboTicket.TicketManagement\GloboTicket.TicketManagement.API.Integration\obj\Debug\net6.0\GloboTicket.TicketManagement.API.IntegrationTests.AssemblyInfoInputs.cache
+C:\Users\marye\Desktop\TUTS\PROJECTS\Asp.net\GloboTicket.TicketManagement\GloboTicket.TicketManagement.API.Integration\obj\Debug\net6.0\GloboTicket.TicketManagement.API.IntegrationTests.AssemblyInfo.cs
+C:\Users\marye\Desktop\TUTS\PROJECTS\Asp.net\GloboTicket.TicketManagement\GloboTicket.TicketManagement.API.Integration\obj\Debug\net6.0\GloboTicket.TicketManagement.API.IntegrationTests.csproj.CoreCompileInputs.cache
+C:\Users\marye\Desktop\TUTS\PROJECTS\Asp.net\GloboTicket.TicketManagement\GloboTicket.TicketManagement.API.Integration\obj\Debug\net6.0\GloboTicket.TicketManagement.API.IntegrationTests.dll
+C:\Users\marye\Desktop\TUTS\PROJECTS\Asp.net\GloboTicket.TicketManagement\GloboTicket.TicketManagement.API.Integration\obj\Debug\net6.0\refint\GloboTicket.TicketManagement.API.IntegrationTests.dll
+C:\Users\marye\Desktop\TUTS\PROJECTS\Asp.net\GloboTicket.TicketManagement\GloboTicket.TicketManagement.API.Integration\obj\Debug\net6.0\GloboTicket.TicketManagement.API.IntegrationTests.pdb
+C:\Users\marye\Desktop\TUTS\PROJECTS\Asp.net\GloboTicket.TicketManagement\GloboTicket.TicketManagement.API.Integration\obj\Debug\net6.0\ref\GloboTicket.TicketManagement.API.IntegrationTests.dll
