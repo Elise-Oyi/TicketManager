@@ -31,7 +31,7 @@ namespace GloboTicket.TicketManagement.Persistence
         {
             if (!options.IsConfigured)
             {
-                options.UseNpgsql("Host=localhost;Database=GloboTicket;Username=postgres;Password=1418");
+                options.UseNpgsql("Host=localhost;Database=****;Username=*****;Password=*****");
                 //options.UseNpgsql(builder.Configuration.GetConnectionString("conn"));
             }
         }
